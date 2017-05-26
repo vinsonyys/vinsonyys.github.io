@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/android-suppor-jar/gson-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/support/jedis-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/android-suppor-jar/qiniu-java-sdk-7.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/android-suppor-jar/fastjson-1.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/android-suppor-jar/okhttp-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/android-suppor-jar/okio-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/vinsonyys/eclipse_project/android-suppor-jar/happy-dns-0.2.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
